@@ -1,9 +1,0 @@
-dev/j3fftw/headlimiter/blocklimiter/BlockLimiter.class
-dev/j3fftw/headlimiter/blocklimiter/Group.class
-dev/j3fftw/headlimiter/blocklimiter/ChunkContent.class
-dev/j3fftw/headlimiter/MetricsService.class
-dev/j3fftw/headlimiter/HeadLimiter.class
-dev/j3fftw/headlimiter/CountResult.class
-dev/j3fftw/headlimiter/Utils.class
-dev/j3fftw/headlimiter/blocklimiter/BlockListener.class
-dev/j3fftw/headlimiter/CountCommand.class
