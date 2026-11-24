@@ -6,7 +6,12 @@ This repository is part of the [SlimefunNewHorizons](https://github.com/Slimefun
 
 | Author | Commits here | Source |
 |---|---|---|
-| _none verified yet_ | | |
+| [Slimefun-Addon-Community](https://github.com/Slimefun-Addon-Community) | n/a | Upstream project [Slimefun-Addon-Community/HeadLimiter](https://github.com/Slimefun-Addon-Community/HeadLimiter) |
+| [J3fftw1](https://github.com/J3fftw1) | n/a | GitHub contributors / project history |
+| [WalshyDev](https://github.com/WalshyDev) | n/a | GitHub contributors / project history |
+| [Alessio-Colombo](https://github.com/Alessio-Colombo) | n/a | GitHub contributors / project history |
+| [Sefiraat](https://github.com/Sefiraat) | n/a | GitHub contributors / project history |
+| [variananora](https://github.com/variananora) | n/a | GitHub contributors / project history |
 
 Authors are taken from the repository history (GitHub contributors) and from the code itself (`plugin.yml`). If an original author is missing or wrongly credited, open an issue or mention [@JackStar6677-1](https://github.com/JackStar6677-1) and it will be fixed.
 
